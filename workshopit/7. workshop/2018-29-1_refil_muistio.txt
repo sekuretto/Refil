@@ -1,0 +1,36 @@
+Muistio 29.2.2019
+
+käytiin läpi
+- tilannekatsaus
+-rekisteröinti-screenshotit
+(keskitytään tekniseen toteutukseen: Wordpress JA PHP)
+-sivuston esittely
+
+Keskustelu
+- keskustelu aina tehtävien alla kommenteilla (keskustelujen linkitys tehtäviin?)
+- erikseen yleiset keskustelut
+
+Varojen seuranta
+- lisääminen manuaalisesti
+-historia (kuka, summa,)
+
+
+Luokkanäkymä:
+- fake-linkki (vai saadaanko toteutettua?)
+- luokan-postyypistä varojen seuranta
+
+
+
+Nice-to-have:
+- matkapakettien valinta luokkia varten ja liitos seurantaan (ostoskori)
+- ilmoitukset käyttäjille (uusista viesteistä yms.)
+- ulkoasun viilaus
+
+
+- listataan priorisoidusti Slackiin viikoittain ja tarkistetaan mihin keskitytään (tai mitä ei 
+ehdi toteuttaa)
+- 5 viikkoa aikaa: seuraavat 3 viikkoa keskitytään prioriteettitehtäviin ja jatketaan sitten vain
+keskittyen viilaamaan lopputulosta
+
+seuraava workshop: 19.2. klo 13
+

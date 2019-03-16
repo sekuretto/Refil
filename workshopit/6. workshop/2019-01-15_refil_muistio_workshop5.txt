@@ -1,0 +1,4 @@
+- manuaalinen rahansyöttö
+- luokkaretki pohjaan sovelluskuvia
+- esimerkkejä käyttöliittymistä
+- linkedin, friendship, facebook, flipboard -sovellukset
