@@ -1,0 +1,43 @@
+// kommenttien haku tietyn luokan sisäisesti
+
+// noudetaan käyttäjän id
+$current_user = wp_get_current_user();
+    $user_id=$current_user->ID;
+
+          // etsitään oikea luokka käyttäjän id: perusteella
+          $args=[
+              'post_type'=>'luokka',
+           ];
+          // haetaan luokka
+           $the_query = new WP_Query($args);
+           // loopataan löytyneet luokat läpi
+           if ( $the_query->have_posts() ) {
+               while ( $the_query->have_posts() ) {
+                    $the_query->the_post();
+                    // tallennetaan kaikki käyttäjät, jotka kuuluvat samaan luokkaan kuin sisään kirjautunut käyttäjä
+                    $users_array = get_field('kayttajat');
+
+                        //suoritetaan haku
+                        // Arguments for the query
+                            $args = array(
+                                'author__in' => $users_array
+                            );
+
+                            // The comment query
+                            $comments_query = new WP_Comment_Query;
+                            $comments = $comments_query->query( $args );
+
+                            // The comment loop
+                            if ( !empty( $comments ) ) {
+                                foreach ( $comments as $comment ) {
+                                    echo '<p>' . $comment->comment_content . '</p>';
+                                }
+                            } else {
+                                echo 'No comments found.';
+                            }
+               }
+               /* Restore original Post Data */
+               wp_reset_postdata();
+            }else {
+            echo 'ei luokkia';
+            } 

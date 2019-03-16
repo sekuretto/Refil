@@ -1,0 +1,376 @@
+/*
+Theme Name: Lucia Child
+Theme URI: https://lqthemes.com/themes/lucia-child/
+Author: LQ Themes
+Author URI: https://lqthemes.com/
+Template: lucia
+Description: Lucia Custom Child Theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: lucia-custom-child
+Tags: e-commerce, one-column, two-columns, custom-background, custom-header, custom-menu, theme-options, right-sidebar, translation-ready, editor-style, featured-images, threaded-comments, rtl-language-support, custom-logo, featured-image-header, footer-widgets
+*/
+
+.fixedbar {
+    background: #000; 
+    bottom: 0px; 
+    color:#fff; 
+    font-family: Arial, Helvetica, sans-serif; 
+    left:0; 
+    padding: 0px 0; 
+    position:fixed; 
+    font-size:16px; 
+    width:100%; 
+    z-index:99999; 
+    float:left; 
+    vertical-align:middle; 
+    margin: 0px 0 0; 
+    opacity: 0.95; 
+    font-weight: bold;
+    }
+    .boxfloat {
+    text-align:center; 
+    width:920px; 
+    margin:0 auto;
+    }
+     
+    #tips, #tips li {
+    margin:0; 
+    padding:0; 
+    list-style:none
+    }
+    #tips {
+    width:920px; 
+    font-size:20px; 
+    line-height:120%;
+    }
+    #tips li {
+    padding: 15px 0; 
+    display:none;
+    }
+    #tips li a{
+    color: #fff;
+    }
+    #tips li a:hover {
+    text-decoration: none;
+    }
+
+    .col-main {
+        width: 100% !important;
+    }
+
+
+/* Rekisteröitymis-formi */
+
+input {
+display: block;
+border-radius: 5px !important;
+margin-bottom: 10px;
+}
+
+button {
+    border-radius: 5px !important;
+    padding: 0;
+}
+
+label {
+font-size: 1.2em;
+display: block !important;
+margin-left: 5px;
+}
+.passwd {
+    font-size: 0.8em;
+}
+
+.submit-button{
+    margin: 10px 0 0 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.huomio-teksti {
+    color: #b11830;
+}
+
+/* Rekisteröitymisen progress */
+
+.progressbar {
+    counter-reset: step;
+}
+.progressbar li {
+    list-style-type: none;
+    width: 25%;
+    float: left;
+    font-size: 12px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+    color: #c1c1c1;
+    z-index: 0;
+}
+.progressbar li:before {
+    width: 30px;
+    height: 30px;
+    content: counter(step);
+    counter-increment: step;
+    line-height: 30px;
+    border: 2px solid #c1c1c1;
+    display: block;
+    text-align: center;
+    margin: 0 auto 10px auto;
+    border-radius: 50%;
+    background-color:white;
+    z-index: 1;
+
+
+}
+
+/*
+.progressbar li:after {
+    width: 100%;
+    height: 2px;
+    content: '';
+    position: absolute;
+    right: 0;
+    background-color: #c1c1c1;
+    top: 15px;
+    left: -50%;
+    z-index: -1;
+    
+}
+.progressbar li.active + li:after {
+    background-color: #1A535C;
+    z-index: -1;
+
+}*/
+
+
+.progressbar li:first-child:after {
+   content: none;
+}
+.progressbar li.active {
+    color: #1A535C;
+}
+.progressbar li.active:before {
+    border-color: #1A535C;
+
+}
+/*huomio laatikko*/
+.huom {
+border: 1px solid red;
+background-color: #ffadb9;
+text-align: center;
+}
+
+.welcome{
+    text-align: center;
+    color: #b11830;
+    font-size: 1.5em;
+}
+
+/* kommentti osio */
+.comment-container{
+    max-width: 750px;
+    text-align: right;
+    margin: 0 auto;
+}
+
+.comment-content-custom{
+    margin: 0 15px 0 20px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    line-height: 16px;
+}
+.comment-details-custom{
+    display: inline-block;
+    text-align: right;
+    width: 49.5%;
+    font-size: 12px;
+    color: grey;
+    font-weight: 900;
+    margin: 0 !important;
+}
+.reply-details-custom{
+    display: inline-block;
+    text-align: right;
+    width: 100%;
+    font-size: 12px;
+    color: grey;
+    font-weight: 900;
+    margin: 0 !important;
+}
+.reply-details-custom strong {
+    margin-right: 20px;
+}
+.comment-details-custom strong {
+    margin-right: 20px;
+}
+.comment-author-custom{
+    display: inline-block;
+}
+.comment-author-image-custom{ 
+    max-width: 45px;
+    object-fit: cover;
+    margin: 10px 10px 5px 10px;
+}
+.comment-author-image-custom{
+    display: inline;
+}
+.avatar {
+    border-radius: 5px; 
+}
+.top-level-comment-custom, .comment-reply-custom{
+    text-align: left;
+    box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 3px;
+    width: 100%;
+    max-width: 750px;
+    margin: 15px 0 5px 0;
+}
+.comment-reply-custom{
+    width: 96%;
+    max-width: 700px !important;
+    margin-left: auto;
+    margin-top: 5px;
+}
+.reply-custom {
+    display: inline-block;
+    width: 49.5%;
+}
+.reply-custom a {
+    margin-left: 20px;
+}
+
+.comment-footer-custom{
+    width: 100%;
+    display: block;
+}
+.compose-comment-container{
+    max-width: 750px;
+    margin: 20px auto;
+}
+.comment-form .logged-in-as{
+    display: none;
+}
+
+/* Uusi kommentti */
+.comment-reply-title {
+    font-size: 24px !important;
+    margin: 25px 0;
+}
+
+/* Custom postit */
+
+.cpt-container{
+    background-color: #e3f2f3;
+    max-width: 750px;
+    margin: 0px auto;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.15);
+    min-height: 300px;
+}
+.cpt-title{
+    text-align: center;
+    padding: 15px 0;
+}
+.cpt-image{
+    object-fit: cover;
+    object-position: 50% 50%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 350px;
+    border: #e3f2f3 5px solid;
+    border-radius: 10px;
+}
+.cpt-footer{
+    width: 100%;
+    text-align: right;
+}
+.cpt-footer p{
+    margin-bottom: 5px;
+}
+.cpt-date, .cpt-time, .cpt-author{
+    display: inline-block;
+    margin-right: 10px;
+}
+.cpt-subtitle, .cpt-paragraph{
+    margin-left: 15px;
+}
+
+.description{
+    color: #b11830;
+}
+#reply-title{
+    font-size: 22px !important;
+}
+#cancel-comment-reply-link{
+    float: right;
+    text-decoration: underline;
+}
+#reply-title a{
+    color: #555;
+    text-decoration: none !important;
+}
+
+/* post arkistot */
+
+.archive-wrapper-link{
+    display: block;
+    max-width: 750px !important;
+    margin: 20px auto;
+}
+.archive-content-container{
+    background-color: #e3f2f3;
+    max-width: 750px;
+    margin: 0px auto;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.15);
+    min-height: 300px;
+}
+.archive-title{
+    text-align: center;
+}
+.archive-image{
+    object-fit: cover;
+    object-position: 50% 50%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 350px;
+    border: #e3f2f3 5px solid;
+    border-radius: 10px; 
+    margin: 10px auto;
+}
+.archive-description{
+    width: 100%;
+    color: #555;
+    margin-left: 10px;
+}
+.archive-paragraph{
+    display: inline-block;
+    color: #555;
+    min-width: 250px;
+    width: 48%;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.archive-paragraph:hover{
+    color: #555;
+}
+.archive-footer{
+    text-align: right;
+}
+.archive-footer .archive-paragraph{
+    display: inline-block !important;
+    width: 80px !important;
+    min-width: 80px !important;
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+.archive-author{
+    display: inline-block !important;
+    width: 130px !important;
+    min-width: 130px !important;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    color: #555;
+}
