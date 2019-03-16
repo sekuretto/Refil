@@ -1,0 +1,140 @@
+<wpml-config>
+      <admin-texts>
+        <key name='lucia'>
+			<!-- Top Bar Left -->
+			<key name='topbar_left'>
+				<key name='0'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='1'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='2'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='3'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='4'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='5'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='6'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				
+			 </key>
+			 
+			 <!-- Top Bar Right -->
+			<key name='topbar_right'>
+				<key name='0'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='1'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='2'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='3'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='4'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='5'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				<key name='6'>
+			   		<key name='text' />
+					<key name='link' />
+				</key>
+				
+			 </key>
+			  <!-- Main Menu Items -->
+			 <key name='frontpage_menu'>
+				<key name='0'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='1'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='2'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='3'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='4'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='5'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='6'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				
+			 </key>
+			 
+			 <!-- Footer Left Icons -->
+			 <key name='footer_left_icons'>
+				<key name='0'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='1'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='2'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='3'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='4'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='5'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				<key name='6'>
+			   		<key name='title' />
+					<key name='link' />
+				</key>
+				
+			 </key>
+			 
+			 <!-- Footer Bottom -->
+			 <key name='copyright'></key>
+			 
+        </key>
+    </admin-texts>
+</wpml-config>
