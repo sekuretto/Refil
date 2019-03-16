@@ -1,0 +1,1991 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lucia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-16 11:20+0000\n"
+"PO-Revision-Date: 2019-01-16 11:20+0000\n"
+"Last-Translator: Refil <it-refil@jamk.fi>\n"
+"Language-Team: \n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: ../lucia/comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../lucia/comments.php:12
+msgid "No comment"
+msgstr ""
+
+#: ../lucia/comments.php:12
+msgid "Has one comment"
+msgstr ""
+
+#: ../lucia/comments.php:12 ../lucia/template-parts/post/content.php:72
+#: ../lucia/template-parts/post/content-search.php:63
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../lucia/comments.php:13
+msgid "to"
+msgstr ""
+
+#: ../lucia/comments.php:15
+msgid "You can "
+msgstr ""
+
+#: ../lucia/comments.php:15
+msgid "leave a reply"
+msgstr ""
+
+#: ../lucia/comments.php:15
+msgid " or "
+msgstr ""
+
+#: ../lucia/comments.php:15
+msgid "Trackback"
+msgstr ""
+
+#: ../lucia/comments.php:15
+msgid "this post."
+msgstr ""
+
+#: ../lucia/comments.php:27
+msgid "Comment pages"
+msgstr ""
+
+#. 1: wp_login_url.
+#: ../lucia/comments.php:58
+#, php-format
+msgid "You must be <a href=\"%1$s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../lucia/comments.php:71
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../lucia/comments.php:73
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../lucia/comments.php:78
+msgid "Name"
+msgstr ""
+
+#: ../lucia/comments.php:82
+msgid "Email"
+msgstr ""
+
+#: ../lucia/comments.php:86
+msgid "Website"
+msgstr ""
+
+#: ../lucia/comments.php:91
+msgid "Message"
+msgstr ""
+
+#: ../lucia/woocommerce.php:87
+msgid "Sale!"
+msgstr ""
+
+#: ../lucia/searchform.php:3
+#: ../lucia/template-parts/navigation/navigation-top.php:48
+msgid "Search for"
+msgstr ""
+
+#: ../lucia/searchform.php:4
+#: ../lucia/template-parts/navigation/navigation-top.php:49
+#: ../lucia/template-parts/navigation/navigation-top.php:50
+msgid "Search"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#: ../lucia/template-fullwidth.php:20 ../lucia/single.php:14
+#: ../lucia/single-lq_template_part.php:16 ../lucia/page.php:14
+#: ../lucia/template-parts/post/content-search.php:41
+#: ../lucia/inc/core/template-tags.php:394
+msgid "Previous page"
+msgstr ""
+
+#: ../lucia/template-fullwidth.php:21 ../lucia/single.php:15
+#: ../lucia/single-lq_template_part.php:17 ../lucia/page.php:15
+#: ../lucia/template-parts/post/content-search.php:40
+#: ../lucia/inc/core/template-tags.php:395
+msgid "Next page"
+msgstr ""
+
+#: ../lucia/template-fullwidth.php:22 ../lucia/single.php:16
+#: ../lucia/single-lq_template_part.php:18 ../lucia/page.php:16
+#: ../lucia/inc/core/template-tags.php:396
+msgid "Page"
+msgstr ""
+
+#: ../lucia/404.php:54
+msgid "404 Nothing Found"
+msgstr ""
+
+#: ../lucia/404.php:56
+msgid "Sorry, the page could not be found."
+msgstr ""
+
+#: ../lucia/404.php:58
+msgid "Go Back"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:34
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-image.php:85
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-image.php:101
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-base.php:265
+msgid "Default"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:41
+msgid "Blank"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:42
+msgid "Self"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:52
+msgid "Lucia: General Options"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:59
+msgid "General Settings"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:66
+#: ../lucia/inc/customizer-options.php:1393
+msgid "Layout"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:70
+msgid "Wide"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:71
+msgid "Boxed"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:75
+msgid "Body layout."
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:81
+msgid "Box Width"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:99
+msgid "Container Width"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:116
+msgid "Body Background"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:134
+msgid "Content Wrapper Background"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:159
+msgid "Primary Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:169
+msgid "Body Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:185
+#: ../lucia/inc/customizer-options.php:435
+#: ../lucia/inc/customizer-options.php:595
+#: ../lucia/inc/customizer-options.php:1338
+#: ../lucia/inc/customizer-options.php:2289
+msgid "Link Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:201
+#: ../lucia/inc/customizer-options.php:451
+#: ../lucia/inc/customizer-options.php:611
+#: ../lucia/inc/customizer-options.php:1361
+#: ../lucia/inc/customizer-options.php:2304
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:219
+msgid "H1 Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:235
+msgid "H2 Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:251
+msgid "H3 Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:267
+msgid "H4 Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:283
+msgid "H5 Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:299
+msgid "H6 Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:317
+#: ../lucia/inc/customizer-options.php:2834
+msgid "Page Title Bar"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:324
+msgid "Display Title Bar"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:333
+msgid "Display Breadcrumb"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:349
+msgid "Title Bar Layout"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:353
+msgid "Left Title, right breadcrumbs"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:354
+msgid "Right Title, left breadcrumbs"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:355
+#: ../lucia/inc/customizer-options.php:1399
+#: ../lucia/inc/customizer-options.php:2165
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:267
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:309
+msgid "Center"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:356
+#: ../lucia/inc/customizer-options.php:750
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-spacing.php:69
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:263
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:297
+msgid "Left"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:357
+#: ../lucia/inc/customizer-options.php:751
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-spacing.php:71
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:265
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:321
+msgid "Right"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:361
+msgid "Title only works on pages."
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:374
+msgid "Page Title Bar Background"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:393
+msgid "Padding"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:419
+msgid "Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:469 ../lucia/inc/core/widgets.php:11
+msgid "Sidebar"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:477
+msgid "Sidebar Width( in % )"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:494
+msgid "Sidebar: Pages"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:507
+msgid "Sidebar: Single Post"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:521
+msgid "Sidebar: Posts Archive"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:525
+#: ../lucia/inc/customizer-options.php:539
+#: ../lucia/inc/customizer-options.php:553
+msgid "No Sidebar"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:525
+#: ../lucia/inc/customizer-options.php:539
+#: ../lucia/inc/customizer-options.php:553
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:525
+#: ../lucia/inc/customizer-options.php:539
+#: ../lucia/inc/customizer-options.php:553
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:535
+msgid "Sidebar: WooCommerce Single Product"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:549
+msgid "Sidebar: WooCommerce Archive"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:563
+msgid "Widgets Title Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:579
+#: ../lucia/inc/customizer-options.php:2274
+msgid "Text Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:628
+msgid "Back to Top"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:635
+msgid "Icon Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:655
+#: ../lucia/inc/customizer-options.php:694
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:674
+msgid "Icon Hover Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:713
+msgid "Broder Radius"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:736
+msgid "Enable Scroll to Top Button"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:746
+msgid "Button Position"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:768
+msgid "Forms"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:775
+msgid "Form Border Style"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:782
+#: ../lucia/inc/customizer-options.php:918
+#: ../lucia/inc/customizer-options.php:987
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:359
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:391
+msgid "None"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:783
+#: ../lucia/inc/customizer-options.php:988
+msgid "Hidden"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:784
+#: ../lucia/inc/customizer-options.php:989
+msgid "Dotted"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:785
+#: ../lucia/inc/customizer-options.php:990
+msgid "Dashed"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:786
+#: ../lucia/inc/customizer-options.php:991
+msgid "Solid"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:787
+#: ../lucia/inc/customizer-options.php:992
+msgid "Double"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:788
+#: ../lucia/inc/customizer-options.php:993
+msgid "Groove"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:789
+#: ../lucia/inc/customizer-options.php:994
+msgid "Ridge"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:790
+#: ../lucia/inc/customizer-options.php:995
+msgid "Inset"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:791
+#: ../lucia/inc/customizer-options.php:996
+msgid "Outset"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:797
+msgid "Form Border Width"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:813
+msgid "Form Border Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:823
+msgid "Form Background Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:842
+msgid "Form Broder Radius"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:860
+msgid "Form Padding"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:880
+msgid "Buttons"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:887
+msgid "Form Font Size"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:901
+msgid "Button Text Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:911
+msgid "Button Text-transform"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:919
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:361
+msgid "Capitalize"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:920
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:363
+msgid "Uppercase"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:921
+msgid "lowercase"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:928
+msgid "Button Broder Radius"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:945
+msgid "Button Border Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:961
+msgid "Button Background Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:980
+msgid "Button Border Style"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1002
+msgid "Button Border Width"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1018
+msgid "Button Padding"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1038
+msgid "404 Page"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1046
+msgid "404 Page content"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1058
+msgid "Lucia: Header"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1066
+msgid "General Options"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1073
+msgid "Full-width Header"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1081
+msgid "Main Header Background Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1111
+#: ../lucia/inc/customizer-options.php:2653
+msgid "Top Bar"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1118
+msgid "Display Top Bar"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1128
+msgid "Top Bar Visibility"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1136
+msgid "Show on all devices"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1137
+msgid "Hide on Mobile"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1138
+msgid "Hide on Mobile&Tablet"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1152
+msgid "Top Bar Left"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1160
+msgid "Item"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1163
+#: ../lucia/inc/customizer-options.php:1212
+#: ../lucia/inc/customizer-options.php:2122
+#, php-format
+msgid "Font-awesome Icon. <a href=\"%s\" target=\"_blank\">Get Icon String</a>"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1164
+msgid "Text"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1165
+#: ../lucia/inc/customizer-options.php:1213
+#: ../lucia/inc/customizer-options.php:2124
+msgid "Link"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1166
+#: ../lucia/inc/customizer-options.php:1214
+msgid "Target"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1184
+msgid "Menu"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1201
+msgid "Top Bar Icons"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1209
+#: ../lucia/inc/customizer-options.php:2119
+msgid "Icon"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1230
+msgid "Top Bar Style"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1237
+#: ../lucia/inc/customizer-options.php:2176
+msgid "Solid Background"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1238
+#: ../lucia/inc/customizer-options.php:2177
+msgid "Bottom Line"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1239
+#: ../lucia/inc/customizer-options.php:2178
+msgid "Bottom Line Full"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1253
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1284
+msgid "Top Bar Border Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1315
+msgid "Topbar Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1386
+msgid "Main Header-Layout"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1397
+#: ../lucia/inc/customizer-options.php:2165
+msgid "Inline"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1398
+msgid "Classic"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1400
+msgid "Split"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1409
+#: ../lucia/inc/customizer-options.php:1468
+#: ../lucia/inc/customizer-options.php:1488
+msgid "Menu Position"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1432
+msgid "Header Text"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1448
+msgid "Logo Position"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1509
+msgid "Enable Sticky Main Header?"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1518
+msgid "Sticky Header Visibility on Mobile Devices?"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1535
+msgid "Display Shopping Cart Icon"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1544
+msgid "Display Search Icon"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1553
+msgid "Display Random Icon"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1562
+msgid "Link Hover Effect"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1566
+msgid "From Center"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1567
+msgid "Left to Right"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1568
+msgid "Upwards"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1569
+msgid "Downwards"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1578
+msgid "Navigation Height"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1594
+#: ../lucia/inc/customizer-options.php:1765
+msgid "Site Title Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1609
+#: ../lucia/inc/customizer-options.php:1780
+msgid "Site Title Hover Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1624
+#: ../lucia/inc/customizer-options.php:1795
+msgid "Menu Toggle Color for Mobile Devices"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1639
+#: ../lucia/inc/customizer-options.php:1810
+msgid "Menu Toggle Hover Color for Mobile Devices"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1654
+#: ../lucia/inc/customizer-options.php:1825
+msgid "Menu Item Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1669
+#: ../lucia/inc/customizer-options.php:1840
+msgid "Menu Item Hover Font Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1689
+msgid "Menu Item Padding"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1709
+msgid "Menu Item Margin"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1730
+#: ../lucia/inc/customizer-options.php:1737
+msgid "Transparent Header"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1738
+msgid "Display transparent header in default?"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1747
+msgid "Background color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1862
+msgid "Logo"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1870
+msgid "Diffenet logo for transparent header?"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1880
+msgid "Transparent Header Logo"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1900
+msgid "Dropdown Menu"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1907
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:275
+msgid "Width"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1923
+msgid "Dropdown Menu Item Background Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1941
+msgid "Dropdown Menu Item Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1956
+msgid "Dropdown Menu Item Hover Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1974
+msgid "Mobile Header"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1981
+msgid "Breakpoint"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:1990
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:271
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:277
+msgid "Height"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2005
+msgid "Menu Text"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2018
+msgid "Lucia: Footer"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2025
+msgid "Fullwidth"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2034
+msgid "Display Widget area?"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2043
+msgid "Footer Columns"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2048
+msgid "1 Column"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2048
+msgid "2 Columns"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2048
+msgid "3 Columns"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2048
+msgid "4 Columns"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2061
+msgid "Footer Widgets Area Padding"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2086
+msgid "Footer Bottom Padding"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2104
+msgid "Display Footer Bottom Icons"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2112
+msgid "Footer Bottom Icons"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2123
+msgid "Title"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2141
+msgid "Copyright"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2144
+#, php-format
+msgid ""
+"Designed by <a href=\"%s\" target=\"_blank\">LQ Themes</a>. All Rights "
+"Reserved."
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2152
+msgid "Footer Bottom Menu"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2161
+msgid "Footer Bottom Layout"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2170
+msgid "Footer Bottom Style"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2192
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2217
+msgid "Footer Bottom Border Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2242
+msgid "Footer Background"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2259
+msgid "Title Color"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2326
+msgid "Lucia: Blog Options"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2333
+msgid "Posts archive"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2340
+msgid "List Style"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2344
+msgid "Top Image"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2345
+msgid "Aside Image"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2346
+msgid "Grid"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2354
+#: ../lucia/inc/customizer-options.php:2420
+msgid "Header Custom Text"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2365
+#: ../lucia/inc/customizer-options.php:2369
+msgid "Excerpt"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2370
+msgid "Full Post"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2377
+#: ../lucia/inc/customizer-options.php:2431
+msgid "Display Feature Image"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2386
+#: ../lucia/inc/customizer-options.php:2440
+msgid "Display Category"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2395
+#: ../lucia/inc/customizer-options.php:2448
+msgid "Display Author"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2403
+#: ../lucia/inc/customizer-options.php:2456
+msgid "Display Date"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2413
+msgid "Single Post"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2468
+msgid "Lucia: Typography"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2475
+msgid "Base Typorgraphy"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2483
+msgid "Body Typography"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2504
+msgid "Heading Font"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2526
+msgid "H1"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2553
+msgid "H2"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2573
+msgid "H3"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2593
+msgid "H4"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2612
+msgid "H5"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2634
+msgid "H6"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2661
+msgid "Content"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2682
+msgid "Main Header"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2690
+msgid "Site Title"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2711
+msgid "Main Menu"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2732
+msgid "Sub Menu"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2753
+msgid "Widget"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2761
+msgid "Widget Title"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2782
+msgid "Widget Content"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2803
+msgid "Footer Info"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2811
+msgid "Footer Content"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2842
+msgid "Page Title"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2863
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2884
+msgid "Blog"
+msgstr ""
+
+#: ../lucia/inc/customizer-options.php:2892
+msgid "Post Title"
+msgstr ""
+
+#: ../lucia/template-parts/post/content.php:43
+#: ../lucia/template-parts/post/content-search.php:34
+#: ../lucia/template-parts/page/content.php:8
+msgid "Pages:"
+msgstr ""
+
+#: ../lucia/template-parts/post/content.php:49
+msgid "<i class=\"fa fa-long-arrow-left\"></i> Next page"
+msgstr ""
+
+#: ../lucia/template-parts/post/content.php:50
+msgid "Previous page <i class=\"fa fa-long-arrow-right\"></i>"
+msgstr ""
+
+#: ../lucia/template-parts/post/content.php:64
+#: ../lucia/template-parts/post/content-search.php:55
+msgid "Continue Reading..."
+msgstr ""
+
+#: ../lucia/template-parts/post/content.php:72
+#: ../lucia/template-parts/post/content-search.php:63
+msgid "No comments yet"
+msgstr ""
+
+#: ../lucia/template-parts/post/content.php:72
+#: ../lucia/template-parts/post/content-search.php:63
+msgid "1 comment"
+msgstr ""
+
+#: ../lucia/template-parts/post/content-none.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: post new url.
+#: ../lucia/template-parts/post/content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../lucia/template-parts/post/content-none.php:20
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../lucia/template-parts/navigation/navigation-top-left.php:21
+msgid "No products in the cart."
+msgstr ""
+
+#: ../lucia/inc/plugin-install/class-plugin-install-helper.php:81
+msgid "Install and activate"
+msgstr ""
+
+#: ../lucia/inc/plugin-install/class-plugin-install-helper.php:111
+msgid "Activate"
+msgstr ""
+
+#: ../lucia/inc/plugin-install/class-plugin-install-helper.php:159
+msgid "Activating "
+msgstr ""
+
+#: ../lucia/inc/core/theme-setup.php:17
+msgid "Top Bar Menu"
+msgstr ""
+
+#: ../lucia/inc/core/theme-setup.php:18
+msgid "Top Menu"
+msgstr ""
+
+#: ../lucia/inc/core/theme-setup.php:19
+msgid "Top Left Menu (Split Navigation Bar)"
+msgstr ""
+
+#: ../lucia/inc/core/common-functions.php:117
+msgid "LQThemes Companion"
+msgstr ""
+
+#: ../lucia/inc/core/common-functions.php:128
+msgid "Elementor"
+msgstr ""
+
+#. 1: title.
+#: ../lucia/inc/core/template-tags.php:44
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%1$s\"</span>"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:67
+msgid "says"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:75
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:97
+msgid "Home"
+msgstr ""
+
+#. 1: search.
+#: ../lucia/inc/core/template-tags.php:156
+#, php-format
+msgid "Search Results for: %1$s"
+msgstr ""
+
+#. 1: title.
+#: ../lucia/inc/core/template-tags.php:162
+#, php-format
+msgid "Tag Archives: %1$s"
+msgstr ""
+
+#. 1: display_name.
+#: ../lucia/inc/core/template-tags.php:170
+#, php-format
+msgid "Author Archives: %1$s"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:174
+msgid "Not Found"
+msgstr ""
+
+#. 1: page.
+#: ../lucia/inc/core/template-tags.php:181
+#, php-format
+msgid "( Page %1$s )"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:377
+msgid "Tags: "
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:442
+msgid "About Lucia"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:452
+msgid "Welcome to Lucia WordPress Theme"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:454
+msgid ""
+"Lucia is the perfect theme which could be used to build one page sites for "
+"design agency, corporate, restaurant, personal, showcase, magazine, "
+"portfolio, ecommerce, etc. The theme is compatible with Elementor, the most "
+"popular drag & drop page builder, which you could use to create elegant "
+"sites with no code knowledge. We have designed various specific elements and "
+"elegant frontpage template for the plugin which can help you create a site "
+"like the demo with just several steps. Lucia also offers various options for "
+"header, footer, pages & posts, etc. And it is compatible with WooCommerce, "
+"Polylang, WPML, Contact Form 7, etc."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:458
+msgid "Import demo sites"
+msgstr ""
+
+#. 1: lqthemes-sites page.
+#: ../lucia/inc/core/template-tags.php:467
+#, php-format
+msgid ""
+"Lucia offers a free library of <a href=\"%1$s\">demo sites</a>. Import your "
+"favorite one by just one click."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:471
+msgid ""
+"Lucia offers a free library of demo sites. Import your favorite one by just "
+"one click."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:477
+msgid "Install the plugins"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:481
+msgid "Start to customize your site"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:486
+msgid "Upload Your Logo"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:487
+msgid "Add your own logo for the header."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:488
+#: ../lucia/inc/core/template-tags.php:495
+#: ../lucia/inc/core/template-tags.php:502
+#: ../lucia/inc/core/template-tags.php:509
+#: ../lucia/inc/core/template-tags.php:515
+#: ../lucia/inc/core/template-tags.php:523
+#: ../lucia/inc/core/template-tags.php:531
+#: ../lucia/inc/core/template-tags.php:539
+#: ../lucia/inc/core/template-tags.php:547
+msgid "Navigate to the option"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:493
+msgid "Upload Favicon"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:494
+msgid "Set the icon that would display as browser and app icon."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:500
+msgid "Sidebar Settings"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:501
+msgid "Set sidebar for pages & posts."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:507
+msgid "Blog Settings"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:508
+msgid "Set contents display in archive pages & posts."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:513
+msgid "Typography Settings"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:514
+msgid "Choose your own typography for any parts of your website."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:521
+msgid "Top Bar Options"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:522
+msgid "Set info for the top bar above header."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:529
+msgid "Header Options"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:530
+msgid "Set layout for the default header."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:537
+msgid "Footer Widgets Options"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:538
+msgid "Choose to display & customize the widget areas in the footer."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:545
+msgid "Footer Info Options"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:546
+msgid "Insert copyright info and social icons in the footer."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:556
+msgid "Review Lucia on WordPress"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:556
+msgid ""
+"We are grateful that you have chose our theme. If you like Lucia, please "
+"take 1 minitue to post your review on Wordpress. Few words of ppreciation "
+"also motivates the development team."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:556
+msgid "Post Your Review"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:557
+msgid "More info could be found at the manual."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:557
+msgid "Step-by-step Manual"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:558
+msgid ""
+"If you have checked the documentation and still having an issue, please post "
+"in the support thread."
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:558
+msgid "Support Thread"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:560
+msgid "FAQ"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:561
+msgid "How to Create Child Theme?"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:562
+msgid "How to Add Custom CSS to Your Website?"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:563
+msgid "How to Translate the Theme?"
+msgstr ""
+
+#: ../lucia/inc/core/template-tags.php:564
+#: ../lucia/inc/core/template-tags.php:565
+msgid "How to Make Your Site Multilingual?"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:13
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:23
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:25
+msgid "Add widgets here to appear in your pages sidebar."
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:35
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:37
+msgid "Add widgets here to appear in your posts sidebar."
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:47
+msgid "Archives"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:49
+msgid "Add widgets here to appear in your posts list sidebar."
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:59
+msgid "WooCommerce Single Product"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:61
+msgid "Add widgets here to appear in your products sidebar."
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:71
+msgid "WooCommerce Archives"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:73
+msgid "Add widgets here to appear in your products list sidebar."
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:83
+msgid "Footer 1"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:85 ../lucia/inc/core/widgets.php:97
+#: ../lucia/inc/core/widgets.php:109 ../lucia/inc/core/widgets.php:121
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:95
+msgid "Footer 2"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:107
+msgid "Footer 3"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:119
+msgid "Footer 4"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:131
+msgid "Custom Sidebar 1"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:143
+msgid "Custom Sidebar 2"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:155
+msgid "Custom Sidebar 3"
+msgstr ""
+
+#: ../lucia/inc/core/widgets.php:167
+msgid "Custom Sidebar 4"
+msgstr ""
+
+#. %1$s represents the field ID where the error occurs. %2%s is buttonset/image.
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-radio.php:73
+#, php-format
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-spacing.php:65
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:259
+msgid "Top"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-spacing.php:67
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:261
+msgid "Bottom"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-switch.php:83
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-switch.php:103
+msgid "On"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-switch.php:85
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-switch.php:111
+msgid "Off"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-color.php:109
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use \"choices[alpha]"
+"\" instead."
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-image.php:81
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-image.php:91
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-image.php:97
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-image.php:107
+msgid "Select image"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-image.php:83
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-image.php:99
+msgid "Change image"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-image.php:87
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-image.php:103
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:773
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:887
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:123
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-base.php:263
+msgid "Remove"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-image.php:89
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-image.php:105
+msgid "No image selected"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/field/class-kirki-field-image.php:93
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-image.php:109
+msgid "Choose image"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/core/class-kirki.php:455
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/core/class-kirki-init.php:563
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::"
+"get_variables() instead."
+msgstr ""
+
+#. %s represents the field ID where the error occurs.
+#: ../lucia/inc/kirki-framework/core/class-kirki-field.php:495
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#. %1$s represents the field ID where the error occurs. %2$s is the URL in the documentation site.
+#: ../lucia/inc/kirki-framework/core/class-kirki-field.php:513
+#: ../lucia/inc/kirki-framework/core/class-kirki-field.php:533
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#. %1$s represents the field ID where the error occurs.
+#: ../lucia/inc/kirki-framework/core/class-kirki-field.php:813
+#, php-format
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr ""
+
+#. %1$s represents the field ID where the error occurs.
+#: ../lucia/inc/kirki-framework/core/class-kirki-field.php:849
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#. The field ID where the error occurs.
+#: ../lucia/inc/kirki-framework/core/class-kirki-field.php:1107
+#: ../lucia/inc/kirki-framework/core/class-kirki-field.php:1127
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/deprecated/functions.php:37
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:419
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:421
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:423
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:425
+msgid "Light 200"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:427
+msgid "Light 200 Italic"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:429
+msgid "Book 300"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:431
+msgid "Book 300 Italic"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:433
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:435
+msgid "Normal 400"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:437
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:439
+msgid "Medium 500"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:441
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:443
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:445
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:447
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:449
+msgid "Bold 700"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:451
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:453
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:455
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:457
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:459
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:461
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/webfonts/class-kirki-fonts.php:463
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:229
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:165
+msgid "Left Top"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:231
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:167
+msgid "Left Center"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:233
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:169
+msgid "Left Bottom"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:235
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:171
+msgid "Right Top"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:237
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:173
+msgid "Right Center"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:239
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:175
+msgid "Right Bottom"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:241
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:177
+msgid "Center Top"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:243
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:179
+msgid "Center Center"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:245
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:181
+msgid "Center Bottom"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:247
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:211
+msgid "Font Size"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:249
+msgid "Font Weight"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:251
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:227
+msgid "Line Height"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:253
+msgid "Font Style"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:255
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:243
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:257
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:259
+msgid "Word Spacing"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:269
+msgid "Size"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:273
+msgid "Spacing"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimensions.php:279
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-dimension.php:77
+msgid "Invalid Value"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:155
+msgid "row"
+msgstr ""
+
+#. %s represents the label of the row.
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:173
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:243
+msgid "Select a Page"
+msgstr ""
+
+#. %s represents the number of rows we're limiting the repeater to allow.
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:455
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:723
+msgid "Hex Value"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:753
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:763
+msgid "No Image Selected"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:775
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:783
+msgid "Add Image"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:775
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:779
+msgid "Change Image"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:817
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:827
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:117
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-base.php:261
+msgid "No File Selected"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:839
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:847
+msgid "Add File"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:839
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-repeater.php:843
+msgid "Change File"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-code.php:73
+msgid ""
+"Please update your WordPress installation to a version newer than 4.9 to "
+"access the code control."
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:159
+msgid "Font Family"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:161
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:171
+msgid "Select Font Family"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:169
+msgid "Backup Font"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:181
+msgid "Variant"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:195
+msgid "Download font-family to server instead of using the Google CDN."
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:275
+msgid "Text Align"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:285
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:369
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:401
+msgid "Inherit"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:333
+msgid "Justify"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:353
+msgid "Text Transform"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:365
+msgid "Lowercase"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:367
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:399
+msgid "Initial"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:385
+msgid "Text Decoration"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:393
+msgid "Underline"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:395
+msgid "Overline"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:397
+msgid "Line-Through"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:417
+msgid "Margin Top"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:433
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-typography.php:449
+msgid "Color"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:95
+msgid "Background Color"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:107
+msgid "Background Image"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:125
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-base.php:267
+msgid "Select File"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:139
+msgid "Background Repeat"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:143
+msgid "No Repeat"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:145
+msgid "Repeat All"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:147
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:149
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:161
+msgid "Background Position"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:193
+msgid "Background Size"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:199
+msgid "Cover"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:205
+msgid "Contain"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:211
+msgid "Auto"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:225
+msgid "Background Attachment"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:231
+msgid "Scroll"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-background.php:237
+msgid "Fixed"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-base.php:269
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-base.php:271
+msgid "Google Fonts"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-base.php:273
+msgid "CSS Defaults"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-base.php:275
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/controls/php/class-kirki-control-slider.php:129
+msgid "Reset"
+msgstr ""
+
+#: ../lucia/inc/kirki-framework/modules/custom-sections/sections/class-kirki-sections-nested-section.php:117
+msgid "Customizing"
+msgstr ""
+
+#. The title.
+#: ../lucia/inc/kirki-framework/modules/custom-sections/sections/class-kirki-sections-nested-section.php:123
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
