@@ -1,0 +1,76 @@
+%!Adobe-FontList 1.20
+%Locale:0x40b
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Exo2-Regular
+FamilyName:Exo 2
+StyleName:Regular
+FullName:Exo 2
+MenuName:Exo 2
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Noora\Desktop\projekti-esitys\01-12-2018_refil_wille_sovellusesittely\Document fonts\Exo2-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:106380
+FileModTime:1543669889
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exo 2
+NameArray:0,Win,1,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Exo2-SemiBold
+FamilyName:Exo 2
+StyleName:Semi Bold
+FullName:Exo 2 Semi Bold
+MenuName:Exo 2 Semi Bold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Noora\Desktop\projekti-esitys\01-12-2018_refil_wille_sovellusesittely\Document fonts\Exo2-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:108868
+FileModTime:1543669706
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Exo 2 Semi Bold
+NameArray:0,Win,1,Exo 2 Semi Bold
+NameArray:0,Win,16,Exo 2
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Noora\Desktop\projekti-esitys\01-12-2018_refil_wille_sovellusesittely\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1537561392
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
