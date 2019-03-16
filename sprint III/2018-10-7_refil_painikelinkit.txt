@@ -1,0 +1,26 @@
+JÄRJESTYS / LINKKI / HTML / CSS /JAVASCRIPT
+
+1. https://codepen.io/bartekd/pen/qFsDf ------------- HTML / CSS
+2. https://codepen.io/BenjaminVilina/pen/wBdgXX ----- HTML / SCSS
+3. https://codepen.io/giana/pen/BZaGyP -------------- HTML / SCSS
+4. https://codepen.io/courcelan/pen/xbmqXN ---------- PUG / STYLUS
+5. https://codepen.io/chrisdothtml/pen/azPYqq ------- PUG / STYLUS
+6. https://codepen.io/perry_nt/pen/eVboze ----------- HTML / CSS
+7. https://codepen.io/bloom-dan/pen/dpbWRz ---------- HTML / CSS
+8. https://codepen.io/mattjuggins/pen/rrLwQq -------- HAML / SCSS / JS
+9. https://codepen.io/firepenguin/pen/KoyLZg -------- HTML / SCSS
+10. https://codepen.io/half-fuller/pen/GJwVLP ------- PUG / SCSS
+11. https://codepen.io/Emanuel_G/pen/YVJOZo --------- HTML / SASS
+12. https://codepen.io/YikesItsMikes/pen/zGOELd ----- HTML / CSS
+13. https://codepen.io/rauldronca/pen/OXqrWY -------- HTML / CSS
+14. https://codepen.io/nw/pen/GqBzJ ----------------- HTML / SCSS
+15. https://codepen.io/screenthink/pen/ZeOyjP ------- HTML / SCSS
+16. https://codepen.io/drus/pen/IKzqG --------------- HTML / CSS
+17. https://codepen.io/callmenick/pen/ZyOOrr -------- HTML / SCSS / BABEL
+18. https://codepen.io/jcoulterdesign/pen/xVJWvz ---- HAML / SCSS
+19. https://codepen.io/waaark/pen/VbgwEM ------------ HTML / CSS / JS
+20. https://codepen.io/numerical/pen/XJKeop --------- HTML / CSS /JS
+21. https://codepen.io/timohausmann/pen/icCer ------- HTML / CSS / JS
+22. https://codepen.io/onediv/pen/jEmjap ------------ HTML / CSS
+23. https://codepen.io/robbue/pen/hJDlA ------------- HTML / LESS / JS
+24. https://codepen.io/MartijnBrands/pen/VvmmNe ----- HTML / SCSS
