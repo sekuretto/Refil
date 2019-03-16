@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        progress {
+            appearance: none;
+	        -moz-appearance: none;
+	        -webkit-appearance: none;
+            display:inline-block;
+            position: relative;
+            border: none;
+            border-radius: 15px;
+            width:100%;
+            height:70px;
+            color:#1a535c;
+            
+        }
+
+        /* Chrome */
+        progress::-webkit-progress-bar {
+            background-color: #feffff;
+            border-radius: 15px;
+            box-shadow:0px 0px 6px rgb(158, 158, 158) inset;
+        }
+        progress::-webkit-progress-value {
+            background: #1a535c;
+            border-radius: 15px;
+            background-image: -webkit-linear-gradient( 135deg,
+                                        transparent,
+                                        transparent 33%,
+                                      rgba(0,0,0,.1) 33%,
+                                      rgba(0,0,0,.1) 66%,
+                                        transparent 66%),
+                            -webkit-linear-gradient( top,
+                                      rgba(255, 255, 255, .25),
+                                      rgba(0,0,0,.2));
+            box-shadow:0px 0px 6px #777 inset;
+        }
+
+        /* Firefox */
+        progress::-moz-progress-bar { 
+            background: #1a535c;	
+        }
+
+        p[data-value] { 
+            position: relative; 
+        }
+        p[data-value]:after {
+            content: attr(data-value) '%';
+            position: absolute; 
+            right:50%;
+        }
+    </style>
+    <script> 
+            function lisaa() { 
+            var v1=document.getElementById('progressbar').value;
+            document.getElementById("progressbar").value= v1 + 10;
+            }
+            function poista() { 
+            var v1=document.getElementById('progressbar').value;
+            document.getElementById("progressbar").value= v1 - 10;
+            }
+    </script> 
+</head>
+<body>
+
+    <h1 style="text-align:center;">Varat</h1>
+    <label style="font-weight:bold; color:#1a535c; float:left;">Puistoretki 20%</label>
+    <!--<label style="width:75%; text-align:right;">Kaupunkikierros 65%</label>-->
+    <label style="font-weight:bold; color:#1a535c; float:right;">Huvipuistomatka 100%</label>
+    <progress id="progressbar" max="100" value="50"></progress>
+    <p id="prosentti" style="width:100%; font-weight: bold;" data-value="50"></p>
+    <br>
+    <input type="button" value='Lisää varoja' onClick='lisaa();'>
+    <input type="button" value='Poista varoja' onClick='poista();'>
+
+</body>
+</html>
