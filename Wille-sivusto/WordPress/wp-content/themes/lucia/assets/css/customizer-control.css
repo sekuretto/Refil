@@ -1,0 +1,7 @@
+#sub-accordion-section-section-sidebar-options .image > label{
+	padding-right:10px;
+	}
+#sub-accordion-section-section-sidebar-options .image {
+	flex-wrap: inherit;
+    box-sizing: border-box;
+	}
