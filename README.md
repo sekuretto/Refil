@@ -15,5 +15,5 @@ Otto Savolainen (K2534/JAMK)
 
 HUOM! Trimedia pidättää kaikki oikeudet WordPress-prototyypin ja palvelumallin jatkokehitykseen.
 
-![Wille](/images/logo.png)
+![Wille](/Figma/vanhemman%20n%C3%A4kym%C3%A4/Kirjautumaton%20etusivu.png)
 
