@@ -1,5 +1,5 @@
 # Refil
-Projekti -kurssin tuotokset
+Projekti -kurssin tuotokset (projektidokumentointi, Figma-moockupit ja Wordpress-sovelluksen lähdekoodi)
 
 JAMK/Trimedia, syyskuu 2018 – maaliskuu 2019
 web-kehitysprojekti ryhmätyönä yhteistyössä JAMKin ja oikean asiakkaan/toimeksiantajan kanssa
