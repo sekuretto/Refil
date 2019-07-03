@@ -14,7 +14,7 @@ Jere Pyhäjärvi (H9175/JAMK, Trimedia Oy)
 Noora Jokinen (K8241/JAMK)  
 Otto Savolainen (K2534/JAMK)  
 
-**HUOM!** Trimedia omistaa projektisopimuksen nojalla kaikki oikeudet projektin tuotoksiin, sekä WordPress-prototyypin ja palvelumallin jatkokehitykseen. Projektitiimin jäsenillä on oikeus esitellä tuotoksia ja projektiajan puitteissa syntynyttä prototyyppiä (tämä repositorio sisältöineen sekä Figma-mallit) työnäytteenä portfolioissa.
+**HUOM!** Trimedia omistaa projektisopimuksen nojalla kaikki oikeudet projektin tuotoksiin, sekä WordPress-prototyypin ja palvelumallin jatkokehitykseen. Projektitiimin jäsenillä on oikeus esitellä tuotoksia ja projektiajan puitteissa syntynyttä prototyyppiä (tämä repositorio sisältöineen, Figma-mallit ja websivun prototyyppi) työnäytteenä portfolioissa.
 
 ![Wille](/Figma/vanhemman%20n%C3%A4kym%C3%A4/Kirjautumaton%20etusivu.png)
 
