@@ -3,7 +3,8 @@ Projekti -kurssin tuotokset (projektidokumentointi, Figma-mockupit ja Wordpress-
 
 JAMK/Trimedia, syyskuu 2018 – maaliskuu 2019
 web-kehitysprojekti ryhmätyönä yhteistyössä JAMKin ja oikean asiakkaan/toimeksiantajan kanssa  
-https://wille.endor.tri.haus/  
+Prototyypin osoite: https://wille.endor.tri.haus/  
+Figma-mallit: https://www.figma.com/file/zF5n5CvPTRwBpRqLOtIJtU/Wille-Projekti-Refil-2018-2019?node-id=98%3A702
 
 käytetyt tekniikat: WordPress/PHP/Javascript sekä projektityöskentelyn ja Scrum-tekniikan sovellusta, UX-suunnittelu (Figma)
 
